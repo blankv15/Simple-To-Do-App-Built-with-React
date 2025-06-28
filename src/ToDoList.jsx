@@ -49,6 +49,7 @@ function ToDoList() {
 
                 <div>
                     <input
+                        className="task-text-field" 
                         type="text"
                         placeholder="Enter a Task"
                         value={newTask}
@@ -65,17 +66,20 @@ function ToDoList() {
                     {tasks.map((task, index) =>
                         <li key={index}>
                             <span>{task}</span>
-                            <button
+                            <button 
+                            className="delete-button"
                                 onClick={() => deleteTask(index)}
                             >delete
                             </button>
                             <button
+                            className="move-button"
                                 onClick={() => moveTaskUp(index)}
-                            >up
+                            >👆
                             </button>
                             <button
+                                className="move-button"
                                 onClick={() => moveTaskUp(index)}
-                            >down
+                            >👇
                             </button>
 
                         </li>
