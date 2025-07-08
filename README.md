@@ -33,7 +33,7 @@ Follow these simple steps to get the development environment running.
 
 1.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/blankv15/Simple-To-Do-App-Built-with-React.git](https://github.com/blankv15/Simple-To-Do-App-Built-with-React.git)
+    git clone [https://github.com/blankv15/Simple-To-Do-App-Built-with-React](https://github.com/blankv15/Simple-To-Do-App-Built-with-React)
     cd Simple-To-Do-App-Built-with-React
     ```
 
