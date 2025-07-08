@@ -14,8 +14,6 @@ A clean and intuitive To-Do List application built with React. This project help
 * **Delete Tasks:** Remove tasks you no longer need.
 * **Move Task Priority:** Easily change the order of your tasks using up and down arrows.
 * **Mark as Complete:** Toggle tasks between active and completed. *(Note: This feature might not be visible in all versions but is part of the core logic).*
-* **Persistent State:** Uses `localStorage` to save your tasks, so they'll be there when you come back.
-* **Responsive Design:** A user-friendly interface that works seamlessly on both desktop and mobile browsers.
 
 ## 🛠️ Tech Stack
 
