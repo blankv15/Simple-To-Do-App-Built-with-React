@@ -6,7 +6,7 @@
 
 A clean and intuitive To-Do List application built with React. This project helps users keep track of their daily tasks with a simple and minimalist interface. It's a great demonstration of core React concepts, including state management with hooks, handling user events, and rendering lists of components.
 
-![Simple To-Do App Demo](https://i.imgur.com/g9v5p9w.png)
+![To-Do App Demo](https://github.com/blankv15/Simple-To-Do-App-Built-with-React/blob/main/assets/1.png)
 
 ## 🚀 Features
 
